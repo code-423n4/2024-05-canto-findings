@@ -1,0 +1,8 @@
+{
+  "contest": 385,
+  "handle": "3docSec",
+  "risk": "2",
+  "title": "Incomplete \"cosmos.msg.v1.signer\" protobuf annotation causes the \"MsgSwapOrder\" and \"MsgConvertERC20\" messages to fail",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/4"
+}
