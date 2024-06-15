@@ -1,0 +1,8 @@
+{
+  "contest": 385,
+  "handle": "3docSec",
+  "risk": "2",
+  "title": "Govshuttle module's \"MsgLendingMarketProposal\" and \"MsgTreasuryProposal\" proposal messages can't be executed",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/5"
+}
