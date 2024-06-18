@@ -1,0 +1,8 @@
+{
+  "contest": 385,
+  "handle": "3docSec",
+  "risk": "2",
+  "title": "Canto-main v8 upgrade discards the \"IBC transfers\" module parameters",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/11"
+}
