@@ -1,0 +1,10 @@
+{
+  "contest": 385,
+  "handle": "0xSergeantPepper",
+  "risk": "2",
+  "title": "DoS vulnerability in `coinswap` pool",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/20",
+  "originalIssueId": 23,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-canto-validation/issues/23"
+}
