@@ -1,0 +1,10 @@
+{
+  "contest": 385,
+  "handle": "honeymewn",
+  "risk": "3",
+  "title": "Oppornity to drain funds because of missing propId validaiton",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/15",
+  "originalIssueId": 53,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-canto-validation/issues/53"
+}
