@@ -1,0 +1,10 @@
+{
+  "contest": 385,
+  "handle": "0x1771",
+  "risk": "3",
+  "title": "An attacker can DoS a coinswap pool",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/28",
+  "originalIssueId": 24,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-canto-validation/issues/24"
+}
