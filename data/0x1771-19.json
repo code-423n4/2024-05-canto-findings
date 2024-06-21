@@ -1,0 +1,10 @@
+{
+  "contest": 385,
+  "handle": "0x1771",
+  "risk": "3",
+  "title": "OnRecvPacket can lead to loss of funds when swapping and converting due to lack of rollback/poor error handling",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/19",
+  "originalIssueId": 26,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-canto-validation/issues/26"
+}
