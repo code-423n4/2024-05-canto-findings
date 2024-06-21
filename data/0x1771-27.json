@@ -1,0 +1,10 @@
+{
+  "contest": 385,
+  "handle": "0x1771",
+  "risk": "2",
+  "title": "MsgSwapOrder will never work for Canto nodes",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/27",
+  "originalIssueId": 25,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-canto-validation/issues/25"
+}
