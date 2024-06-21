@@ -1,0 +1,10 @@
+{
+  "contest": 385,
+  "handle": "forgebyola",
+  "risk": "2",
+  "title": "Several Inconsistencies in `app.go` from cosmos 0.5.0 upgrade",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/23",
+  "originalIssueId": 51,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-canto-validation/issues/51"
+}
