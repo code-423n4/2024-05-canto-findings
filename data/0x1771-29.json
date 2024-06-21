@@ -1,0 +1,10 @@
+{
+  "contest": 385,
+  "handle": "0x1771",
+  "risk": "2",
+  "title": "Govshuttle's RegisterLegacyAminoCodec is Implemented Incorrectly",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/29",
+  "originalIssueId": 20,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-canto-validation/issues/20"
+}
