@@ -1,0 +1,10 @@
+{
+  "contest": 385,
+  "handle": "ladboy233",
+  "risk": "2",
+  "title": "sdk.Context is still used instead of context.Context, causing interface mismatch.",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/30",
+  "originalIssueId": 17,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-canto-validation/issues/17"
+}
