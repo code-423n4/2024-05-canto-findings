@@ -1,0 +1,10 @@
+{
+  "contest": 385,
+  "handle": "Ocean_Sky",
+  "risk": "2",
+  "title": "First depositor can break minting of LP shares",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/24",
+  "originalIssueId": 49,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-canto-validation/issues/49"
+}
