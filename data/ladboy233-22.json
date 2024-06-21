@@ -1,0 +1,10 @@
+{
+  "contest": 385,
+  "handle": "ladboy233",
+  "risk": "2",
+  "title": "tmbytes.HexBytes is not changed to []bytes cause incorrect interface GetDenomTrace implementation",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2024-05-canto-findings/issues/22",
+  "originalIssueId": 16,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-canto-validation/issues/16"
+}
